@@ -1,28 +1,14 @@
 # U-District Elevation
-![](url for an image about your topic)
+I'm discovering the possibilities of creating an elevation map, building off of [this map](https://en-us.topographic-map.com/maps/na3/Seattle/), and maybe showing something interesting about the U-District area.
 
-A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
+## Idea One
+**Navigation**. To see if elevation affects apps like Google Map's route recommendation
 
+## Idea Two
+**Precipatation**. Map of precipatation along with elevation levels. 
 
-## Section 1
-One or several paragraphs.
+## Idea Three
+**Contour Map**. 3D visualization of the elevation.
+<img src="https://cdn.vectorstock.com/i/1000x1000/54/76/3d-abstract-topographic-map-black-light-lines-back-vector-34815476.webp" width="200" height="200">
+<!-- ![Contour Map](https://cdn.vectorstock.com/i/1000x1000/54/76/3d-abstract-topographic-map-black-light-lines-back-vector-34815476.webp) -->
 
-## Section 2
-One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
-
-## Section 3
-One or several paragraphs for subsection 3.
-
-## See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
-
-## References
-1. Reference 1
-2. Reference 2
-3. Reference 3
