@@ -4,16 +4,16 @@
 * Ideas
     * One: **Navigation**. To see if elevation affects apps like Google Map's route recommendation
     <p align="center">
-        <img src="https://gisgeography.com/wp-content/uploads/2020/06/Seattle-Road-Map.jpg" width="200" height="200" margin-right=300px>
+        <img src="https://gisgeography.com/wp-content/uploads/2020/06/Seattle-Road-Map.jpg" width="400" height="400" margin-right=300px>
     </p>
 
     * Two: **Precipatation**. [Map of precipatation](https://www.theurbanist.org/2015/10/15/map-of-the-week-rainfall-across-seattle-neighborhoods/) along with elevation levels. 
     <p align="center">
-        <img src="https://www.theurbanist.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-14-at-19.55.34.png" width="200" height="200">
+        <img src="https://www.theurbanist.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-14-at-19.55.34.png" width="400" height="400">
     </p>
 
     * Three: **Contour Map**. 3D visualization of the elevation. 
     <p align="center">
-        <img src="https://cdn.vectorstock.com/i/1000x1000/54/76/3d-abstract-topographic-map-black-light-lines-back-vector-34815476.webp" width="200" height="200">
+        <img src="https://cdn.vectorstock.com/i/1000x1000/54/76/3d-abstract-topographic-map-black-light-lines-back-vector-34815476.webp" width="400" height="400">
     </p>
 
