@@ -1,14 +1,19 @@
 # U-District Elevation
-I'm discovering the possibilities of creating an elevation map, building off of [this map](https://en-us.topographic-map.com/maps/na3/Seattle/), and maybe showing something interesting about the U-District area.
+### I'm discovering the possibilities of creating an elevation map, building off of [this map](https://en-us.topographic-map.com/maps/na3/Seattle/), and maybe showing something interesting about the U-District area.
 
-## Idea One
-**Navigation**. To see if elevation affects apps like Google Map's route recommendation
+* Ideas
+    * One: **Navigation**. To see if elevation affects apps like Google Map's route recommendation
+    <p align="center">
+        <img src="https://gisgeography.com/wp-content/uploads/2020/06/Seattle-Road-Map.jpg" width="200" height="200" margin-right=300px>
+    </p>
 
-## Idea Two
-**Precipatation**. Map of precipatation along with elevation levels. 
+    * Two: **Precipatation**. [Map of precipatation](https://www.theurbanist.org/2015/10/15/map-of-the-week-rainfall-across-seattle-neighborhoods/) along with elevation levels. 
+    <p align="center">
+        <img src="https://www.theurbanist.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-14-at-19.55.34.png" width="200" height="200">
+    </p>
 
-## Idea Three
-**Contour Map**. 3D visualization of the elevation.
-<img src="https://cdn.vectorstock.com/i/1000x1000/54/76/3d-abstract-topographic-map-black-light-lines-back-vector-34815476.webp" width="200" height="200">
-<!-- ![Contour Map](https://cdn.vectorstock.com/i/1000x1000/54/76/3d-abstract-topographic-map-black-light-lines-back-vector-34815476.webp) -->
+    * Three: **Contour Map**. 3D visualization of the elevation. 
+    <p align="center">
+        <img src="https://cdn.vectorstock.com/i/1000x1000/54/76/3d-abstract-topographic-map-black-light-lines-back-vector-34815476.webp" width="200" height="200">
+    </p>
 
