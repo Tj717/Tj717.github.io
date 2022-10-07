@@ -7,7 +7,7 @@
         <img src="https://gisgeography.com/wp-content/uploads/2020/06/Seattle-Road-Map.jpg" width="450" height="450" margin-right=300px>
     </p>
 
-    * Two: **Precipatation**. <a href="https://www.theurbanist.org/2015/10/15/map-of-the-week-rainfall-across-seattle-neighborhoods">Map of precipatatio</a> along with elevation levels. 
+    * Two: **Precipatation**. <a href="https://www.theurbanist.org/2015/10/15/map-of-the-week-rainfall-across-seattle-neighborhoods">Map of precipatation</a> and a a layer of   elevation levels. 
     <p align="center">
         <img src="https://www.theurbanist.org/wp-content/uploads/2015/10/Screen-Shot-2015-10-14-at-19.55.34.png" width="450" height="450">
     </p>
