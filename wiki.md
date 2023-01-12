@@ -1,7 +1,7 @@
 # U-District Elevation
 ### I'm discovering the possibilities of creating an elevation map, building off of <a href="https://en-us.topographic-map.com/maps/na3/Seattle">this map</a>, and maybe showing something interesting about the U-District area.
 
-* Ideas
+* Ideas List:
     * One: **Navigation**. To see if elevation affects apps like Google Map's route recommendation
     <p align="center">
         <img src="https://gisgeography.com/wp-content/uploads/2020/06/Seattle-Road-Map.jpg" width="450">

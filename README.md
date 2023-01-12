@@ -1,3 +1,3 @@
 # Tj717.github.io
 
-Repository for Autumn 2022 [Geog 495: Web GIS](https://github.com/jakobzhao/geog495)'s [Labs](https://github.com/jakobzhao/geog495/tree/main/labs)
+Repository for Winter 2023 [Geog 458: Advanced Digital Geography](https://github.com/jakobzhao/geog458)'s [Lab 1](https://github.com/jakobzhao/geog458/tree/master/labs/lab01)
