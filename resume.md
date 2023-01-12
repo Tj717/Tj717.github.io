@@ -1,5 +1,6 @@
 Tai Jing
 ============
+><jingtai@uw.edu>
 
 Education
 ---------
@@ -32,6 +33,3 @@ Programming Languages
 *  HTML/CSS/JavaScript
 *   Java, Python 
 *  Basic knowledge of **C**, **Linux**, **Git**
-
-
-> <jingtai@uw.edu>
